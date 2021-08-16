@@ -6,3 +6,6 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 
 • HTML & CSS (Learning)
 
+### Projects
+• Hexagon ## A fast, reliable and easy to use Discord Bot. (In Progress)
+
