@@ -3,5 +3,6 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 
 ### Languages
 • Python (Intermediate)
+
 • HTML & CSS (Learning)
 
