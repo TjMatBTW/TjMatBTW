@@ -21,3 +21,5 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 • [Twitter](https://twitter.com/TjMatBTW)
 
 • [Patreon](https://patreon.com/TjMat)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTjMatBTW%2Ftjmat&count_bg=%230018EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
