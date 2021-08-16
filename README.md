@@ -1,8 +1,9 @@
 # Hey there, my name's TjMat!
 I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wiki/portugal). If you want to talk with me, shoot me a DM, preferably through Discord. If you aren't able to DM me, join a server where I'm in like [Python Discord](https://discord.gg/python), [Discord.py](https://discord.gg/dpy), [Discord Developers](https://discord.gg/discord-developers), or [Discord Testers](https://discord.gg/discord-testers).
 
-### Profile
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/515535067729362944)](https://discord.com/users/515535067729362944)
+<a href="https://discord.com/users/515535067729362944">
+  <img src="https://lanyard-profile-readme.vercel.app/api/515535067729362944" align="right" />
+</a>
 
 ### Languages
 • Python (Intermediate)
@@ -20,5 +21,3 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 • [Twitter](https://twitter.com/TjMatBTW)
 
 • [Patreon](https://patreon.com/TjMat)
-
-
