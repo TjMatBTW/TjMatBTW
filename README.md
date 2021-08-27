@@ -1,5 +1,5 @@
 # Hey there, my name's TjMat!
-I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wiki/portugal). If you want to talk with me, shoot me a DM, preferably through Discord. If you aren't able to DM me, join a server where I'm in like [Python Discord](https://discord.gg/python), [Discord.py](https://discord.gg/dpy), [Discord Developers](https://discord.gg/discord-developers), or [Discord Testers](https://discord.gg/discord-testers).
+I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wiki/portugal). I always liked to do things related to computers. I started to code as a fun thing but I realized that I love to do this and I want to make it my life career. If you want to talk with me, shoot me a DM, preferably through Discord. If you aren't able to DM me, join a server where I'm in like [Python Discord](https://discord.gg/python), [Discord.py](https://discord.gg/dpy), [Discord Developers](https://discord.gg/discord-developers), or [Discord Testers](https://discord.gg/discord-testers).
 
 <a href="https://discord.com/users/515535067729362944">
   <img src="https://lanyard-profile-readme.vercel.app/api/515535067729362944" align="right" />
