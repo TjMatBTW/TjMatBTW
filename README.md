@@ -23,3 +23,7 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 • [Patreon](https://patreon.com/TjMat)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTjMatBTW%2Ftjmat&count_bg=%230018EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjMatBTW&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TjMatBTW&show_icons=true&theme=dark&line_height=21" alt="Bloxiphy's github stats"/> </p>
