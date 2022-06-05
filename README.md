@@ -10,12 +10,12 @@ I am a programmer & tech enthusiast from [Portugal](https://en.wikipedia.org/wik
 
 • HTML & CSS (Learning)
 
-• LUA (Learning)
+• C# (Learning)
 
 ### Projects
 • Hexagon: a fast, reliable and easy to use Discord Bot. (In Progress)
 
-• My personal website.
+• My personal website. (In progress)
 
 ### Socials
 • [Discord](https://discordapp.com/users/515535067729362944)
